@@ -25,7 +25,8 @@ A streamlined Outpatient Procedure (OPP) Hospital Management System designed to 
 
 ## 📁 Project Structure
 
-OOP-Clinic-Management/OOP-Clinic-Management/
+OOP-Clinic-Management/
+
 ├── main.cpp           # 🎮 Entry point – drives the application logic
 
 ├── clinic.h           # 🏥 Manages clinic-wide operations & appointment coordination
