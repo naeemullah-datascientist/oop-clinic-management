@@ -27,11 +27,17 @@ A streamlined Outpatient Procedure (OPP) Hospital Management System designed to 
 
 OOP-Clinic-Management/OOP-Clinic-Management/
 ├── main.cpp           # 🎮 Entry point – drives the application logic
+
 ├── clinic.h           # 🏥 Manages clinic-wide operations & appointment coordination
+
 ├── appointment.h      # 📅 Appointment class – time, date, doctor-patient mapping
+
 ├── doctor.h           # 👨‍⚕️ Doctor class – stores details & availability
+
 ├── patient.h          # 🧑 Patient class – handles personal and medical info
+
 ├── utils.h            # 🔧 Utility functions – validation, formatting, etc.
+
 ├── README.md          # 📘 Project documentation (you're here!)
 
 ---
